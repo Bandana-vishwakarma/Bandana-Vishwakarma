@@ -7,4 +7,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: bandanavishwakarma@gmail.com
 
-![Bandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BandanaVishwakarma&theme=radical&align="middle")
+![Bandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandanavishwakarma&theme=radical&align="middle")
