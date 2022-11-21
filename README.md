@@ -6,13 +6,13 @@
 
 
 ## I'm a software developer!!
-- 🔭 I’m currently working on Python GUI-Tkinter.
-- 🌱 I’m currently learning Data science.
+- 🔭 I’m currently working on **Python GUI-Tkinter**.
+- 🌱 I’m currently learning **Data science**.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: bandanavishwakarma@gmail.com
+- 📫 How to reach me: bandanavishwakarmagkp@gmail.com
 
 
-### Connect with me:
+
 
 
 
