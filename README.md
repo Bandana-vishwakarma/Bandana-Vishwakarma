@@ -1,7 +1,7 @@
 ### Hello there, I'm Bandana Vishwakarma  👋
 
 
-![Coding](https://github.com/Bandana-vishwakarma/main/animated coding.gif)
+![Coding](https://github.com/Bandana-vishwakarma/main/animatedcoding.gif)
 
 
 
