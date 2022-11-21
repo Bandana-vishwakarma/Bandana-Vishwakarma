@@ -1,7 +1,7 @@
 ### Hello there, I'm Bandana Vishwakarma  👋
 
 
-     <img align="right" alt="GIF" src="https://github.com/Bandana-vishwakarma/blob/main/animated coding.gif?raw=true" width="500" height="320" />
+     <img align="right" alt="GIF" src="https://github.com/Bandana-vishwakarma/main/animatedcoding.gif?raw=true" width="500" height="320" />
 
 
 
