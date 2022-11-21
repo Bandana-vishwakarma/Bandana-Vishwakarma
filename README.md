@@ -1,10 +1,6 @@
 ### Hello there, I'm Bandana Vishwakarma  👋
 
 
-![Coding](https://github.com/Bandana-vishwakarma/main/animatedcoding.gif)
-
-
-
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Python GUI-Tkinter.
 - 💬 Ask me about any tech related stuff.
