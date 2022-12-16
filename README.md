@@ -7,7 +7,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bandana-vishwakarma&label=Profile%20views&color=green&style=flat" alt="Bandana-vishwakarma" /> </p>
  
 
-- 🔭 I’m currently working on **Advanced Python**.
+- 🔭 I’m currently working on **Database**.
 - 🌱 I’m currently learning **Data science**.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: bandanavishwakarmagkp@gmail.com
